@@ -1,22 +1,28 @@
 # PushAuthentication
 
 ## Demo
-![pushAuth](https://github.com/user-attachments/assets/5e61a27b-8a1a-4219-b7dd-cde0b33aa2a6)
+![pushAuthentication](https://github.com/user-attachments/assets/80043b8a-8f67-4ad3-b54c-6c4a5cc4f827)
+
 
 ## States
 
 ### Success
 
-<img width="316" height="663" alt="success" src="https://github.com/user-attachments/assets/b58902fc-450a-4be0-862d-734becb6b37c" />
+<img width="258" height="540" alt="success" src="https://github.com/user-attachments/assets/93e78124-c3dc-4437-bb9e-a3d2370b289d" />
+
 
 ###  Failed to fetch Push authorisation state
 
-<img width="314" height="657" alt="failedToFetchPushAuth" src="https://github.com/user-attachments/assets/8aaf29ac-cb39-455e-8e90-0bad31e34e01" />
+<img width="297" height="543" alt="failedFetchStatus" src="https://github.com/user-attachments/assets/b112a4b8-ed56-4a18-bff0-6be366825b9b" />
+
 
 ###  Failed to fetch vendor status
 
-<img width="315" height="657" alt="FailedVendorStatus" src="https://github.com/user-attachments/assets/31f0f4d3-71fb-4a61-b1bb-b87a243ac901" />
+<img width="255" height="527" alt="failedVendorStatus" src="https://github.com/user-attachments/assets/448c5d00-4a6d-4e73-b373-d46a3a2cf9cb" />
+
 
 ###  Another device error
+<img width="262" height="539" alt="anotherDeviceError" src="https://github.com/user-attachments/assets/a08f9ad6-5adb-4ba8-898a-b6ed7147c3a5" />
 
-<img width="312" height="664" alt="anotherDeviceError" src="https://github.com/user-attachments/assets/e0dc4afb-2fcc-419a-aa15-0ca08e493f64" />
+
+
